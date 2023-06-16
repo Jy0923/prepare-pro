@@ -32,7 +32,7 @@ public class Main {
 		
 		int max = Integer.MIN_VALUE;
 		
-		int[] dr = {0,0,-1,1};
+		int[] dr = {0,0,1,-1};
 		int[] dc = {1,-1,0,0};
 		
 		for (int r = 1; r <= n; r++) {
